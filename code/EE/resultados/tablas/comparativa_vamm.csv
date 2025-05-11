@@ -1,0 +1,17 @@
+Función,Configuración,VAMM
+Sphere,1sigma-discrete-comma,4.348395e-10
+Sphere,1sigma-discrete-plus,5.653138e-11
+Sphere,1sigma-intermediate-comma,3.063948e-10
+Sphere,1sigma-intermediate-plus,5.605123e-11
+Sphere,n_sigma-discrete-comma,8.082013e-10
+Sphere,n_sigma-discrete-plus,6.237723e-11
+Sphere,n_sigma-intermediate-comma,4.144724e-10
+Sphere,n_sigma-intermediate-plus,7.542117e-11
+Schwefel,1sigma-discrete-comma,1.618664e+02
+Schwefel,1sigma-discrete-plus,1.381787e+02
+Schwefel,1sigma-intermediate-comma,3.633363e+03
+Schwefel,1sigma-intermediate-plus,2.653699e+03
+Schwefel,n_sigma-discrete-comma,4.737546e+01
+Schwefel,n_sigma-discrete-plus,1.539721e+02
+Schwefel,n_sigma-intermediate-comma,3.688439e+03
+Schwefel,n_sigma-intermediate-plus,2.724142e+03

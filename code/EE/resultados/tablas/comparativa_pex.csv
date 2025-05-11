@@ -1,0 +1,17 @@
+Función,Configuración,PEX
+Sphere,1sigma-discrete-comma,1.310400e+04
+Sphere,1sigma-discrete-plus,1.310400e+04
+Sphere,1sigma-intermediate-comma,1.008000e+04
+Sphere,1sigma-intermediate-plus,9.786000e+03
+Sphere,n_sigma-discrete-comma,1.596000e+04
+Sphere,n_sigma-discrete-plus,1.638000e+04
+Sphere,n_sigma-intermediate-comma,1.436400e+04
+Sphere,n_sigma-intermediate-plus,1.470000e+04
+Schwefel,1sigma-discrete-comma,6.090000e+03
+Schwefel,1sigma-discrete-plus,6.090000e+03
+Schwefel,1sigma-intermediate-comma,inf
+Schwefel,1sigma-intermediate-plus,inf
+Schwefel,n_sigma-discrete-comma,7.560000e+03
+Schwefel,n_sigma-discrete-plus,7.630000e+03
+Schwefel,n_sigma-intermediate-comma,inf
+Schwefel,n_sigma-intermediate-plus,inf

@@ -1,0 +1,5 @@
+Función,Configuración,TE
+Sphere,rand/1/bin,0.000000e+00
+Sphere,best/1/bin,0.000000e+00
+Schwefel,rand/1/bin,1.000000e+00
+Schwefel,best/1/bin,1.000000e+00

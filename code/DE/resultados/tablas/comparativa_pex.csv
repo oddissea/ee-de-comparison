@@ -1,0 +1,5 @@
+Función,Configuración,PEX
+Sphere,rand/1/bin,inf
+Sphere,best/1/bin,inf
+Schwefel,rand/1/bin,1.554000e+04
+Schwefel,best/1/bin,7.926000e+03

@@ -1,0 +1,17 @@
+Función,Configuración,TE
+Sphere,1sigma-discrete-comma,1.000000e+00
+Sphere,1sigma-discrete-plus,1.000000e+00
+Sphere,1sigma-intermediate-comma,1.000000e+00
+Sphere,1sigma-intermediate-plus,1.000000e+00
+Sphere,n_sigma-discrete-comma,1.000000e+00
+Sphere,n_sigma-discrete-plus,1.000000e+00
+Sphere,n_sigma-intermediate-comma,1.000000e+00
+Sphere,n_sigma-intermediate-plus,1.000000e+00
+Schwefel,1sigma-discrete-comma,2.000000e-01
+Schwefel,1sigma-discrete-plus,4.000000e-01
+Schwefel,1sigma-intermediate-comma,0.000000e+00
+Schwefel,1sigma-intermediate-plus,0.000000e+00
+Schwefel,n_sigma-discrete-comma,6.000000e-01
+Schwefel,n_sigma-discrete-plus,6.000000e-01
+Schwefel,n_sigma-intermediate-comma,0.000000e+00
+Schwefel,n_sigma-intermediate-plus,0.000000e+00

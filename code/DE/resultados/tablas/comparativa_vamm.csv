@@ -1,0 +1,5 @@
+Función,Configuración,VAMM
+Sphere,rand/1/bin,1.179865e-04
+Sphere,best/1/bin,3.921880e-07
+Schwefel,rand/1/bin,2.731299e-04
+Schwefel,best/1/bin,1.296702e-04
